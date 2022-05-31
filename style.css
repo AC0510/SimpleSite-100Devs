@@ -1,0 +1,41 @@
+body {
+    background-color: lightskyblue;
+    border: 5px solid lightgreen;
+    font-family: Roboto, sans-serif;
+    color: white;
+    padding: 50px;
+    margin: 40px;
+}
+
+h1 {
+    font-style: italic;
+    font-family: Roboto, sans-serif;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}
+
+nav li {
+    color: white;
+    font-weight: bold;
+    display: inline;
+}
+
+nav a {
+    color: lightgreen;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+img {
+    float: right;
+    max-width: 200px;
+    max-margin: 50px;
+    height: auto;
+}
+
+
